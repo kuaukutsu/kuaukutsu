@@ -1,6 +1,7 @@
 ### Hi, i am Dmitriy Krivopalov 👋
 
-:rocket: Programming Languages: PHP
+:rocket: Programming Languages: PHP  
+:mage_man: https://career.habr.com/dkrivopalov
 
 ---
 
