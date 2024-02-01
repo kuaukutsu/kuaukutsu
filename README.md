@@ -3,7 +3,7 @@
 :rocket: Programming Languages: PHP  
 :mage_man: https://career.habr.com/dkrivopalov
 
-Tech Lead in company **HR Messenger** https://www.facebook.com/hrbotcom
+PHP developer in company **HR Messenger** https://www.facebook.com/hrbotcom
 
 ---
 
