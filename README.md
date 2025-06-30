@@ -3,8 +3,6 @@
 :rocket: Programming Languages: PHP  
 :mage_man: https://career.habr.com/dkrivopalov
 
-PHP developer in company **HR Messenger** https://www.facebook.com/hrbotcom
-
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
